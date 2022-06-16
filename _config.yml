@@ -1,6 +1,6 @@
 ---
-name: Cloud Native Transformation Patterns
-title: Cloud Native Transformation Patterns
+name: Cloud Native Transformation Muster
+title: Cloud Native Transformation Muster
 
 kramdown: 
   parse_block_html: true
@@ -8,15 +8,16 @@ permalink: /:title
 
 collections:
   development-design:
-    output: true
+    output: false
   infrastructure-cloud:
-    output: true
+    output: false
   organization-culture:
     output: true
   strategy-risk-reduction:
     output: true
   operations:
-    output: true
+    output: false
 
 # Google Analytics
-google_analytics: UA-53586058-2
+# deactivated because we don't want to mix up the statistics for German and the English version
+# google_analytics: UA-53586058-2
