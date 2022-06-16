@@ -1,6 +1,6 @@
 ---
-title: Organization & Culture Patterns
-description: "Patterns to guide organizational evolution: cut down dependencies and empower teams to be independent, proactive, and self-sufficient while delivering rapidly and iteratively."
+title: Organisations- & Kulturmuster
+description: "Muster zur Steuerung der organisatorischen Entwicklung: Verringerung der Abhängigkeiten und Befähigung der Teams, unabhängig, proaktiv und autark zu sein und gleichzeitig schnell und iterativ zu liefern."
 layout: default
 ---
 

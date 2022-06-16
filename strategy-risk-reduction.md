@@ -1,6 +1,6 @@
 ---
-title: Strategy & Risk Reduction Patterns
-description: "Patterns that specifically shape and drive overall strategy in a Cloud Native organization: reducing risk and building for long-term success, both during a transformation and then into whatever comes next."
+title: Strategie- & Riskominderungsmuster
+description: "Muster, die die Gesamtstrategie in einer Cloud Native-Organisation spezifisch formen und vorantreiben: das Risiko reduzieren und für langfristigen Erfolg sorgen, sowohl während einer Transformation als auch in der Zukunft."
 layout: default
 ---
 

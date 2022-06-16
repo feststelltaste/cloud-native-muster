@@ -1,13 +1,17 @@
 ---
-title: Cloud Native Transformation Patterns
-description: Tools for creating effective Cloud Native architecture—and remaking the way we work
+title: Cloud Native Transformation Muster
+description: Tools für die Erstellung einer effektiven Cloud Native-Architektur - und für die Umgestaltung unserer Arbeitsweise
 layout: homepage
 ---
 
-# What are Cloud Native Patterns?
+# Was ist diese Seite?
 
-When it comes to Cloud Native, most of us are junior. The technology is so new, and our understanding of the architecture is constantly evolving. Sharing our rapidly growing knowledge is essential. Creating Cloud Native-specific patterns is a way to name the things we are learning as developers, engineers, and technology managers so we can talk to each other more effectively. As we learn and continue, the patterns will evolve and improve alongside our understanding.
+Diese Seite ist eine inoffizielle, deutsche Übersetzung von [cnpatterns.org](https://cnpatterns.org), welche von [Markus Harrer](https://www.innoq.com/de/staff/markus-harrer/) [@feststelltaste](https://twitter.com/feststelltaste) ins Leben gerufen wurde.
 
-Patterns are not a hack. They are not a quick and easy way to solve difficult problems without careful thought. Instead, they are a language for sharing context-specific working solutions. And here is the place to find and explore Cloud Native patterns--and, soon, share some of your own. **This site is intended to be the home of a Cloud Native patterns community, the place to explore existing patterns and collaborate on creating new ones.** We openly welcome questions, conversation, and contributions!
+# Was sind Cloud Native Muster?
+
+Wenn es um Cloud Native geht, sind die meisten von uns Neulinge. Die Technologie ist so neu, und unser Verständnis der Architektur entwickelt sich ständig weiter. Die Weitergabe unseres schnell wachsenden Wissens ist unerlässlich. Die Erstellung von Cloud Native-spezifischen Mustern ist eine Möglichkeit, die Dinge zu benennen, die wir als Entwickler, Ingenieure und Technologiemanager lernen, damit wir uns effektiver austauschen können. Während wir lernen und weitermachen, werden sich die Patterns mit unserem Verständnis weiterentwickeln und verbessern.
+
+Patterns sind kein "Hack". Sie sind kein schneller und einfacher Weg, um schwierige Probleme ohne sorgfältiges Nachdenken zu lösen. Stattdessen sind sie eine Sprache für den Austausch kontextspezifischer Arbeitslösungen. Und hier ist der richtige Ort, um Cloud Native-Muster zu finden und zu erforschen - und bald auch einige Ihrer eigenen zu teilen. **Diese Seite soll die Heimat einer Cloud Native Patterns-Community sein, ein Ort, an dem bestehende Patterns erforscht und neue gemeinsam entwickelt werden können.** Wir freuen uns auf Fragen, Gespräche und Beiträge!
 
 [Explore patterns]({{ site.baseurl }}/patterns-library){:.button-text}
