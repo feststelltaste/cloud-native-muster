@@ -14,11 +14,8 @@ Wenn Menschen mit einem Problem konfrontiert werden, verbringen sie in der Regel
 Dies führt zu vertretbaren Lösungen, verpasst aber die Chance, exzellente Lösungen zu finden.
 
 * Der Satz der kognitiven Energieerhaltung führt dazu, dass Menschen die erste gute Lösung wählen.
-
 * Entwickler\*innen sind typischerweise Entscheidungsträger\*innen für technische Lösungen.
-
 * Entwickler\*innen sind nicht im Umgang mit den Kräften des Business oder des Marktes geübt.
-
 * Eleganz und Schönheit sind auch für interne Systeme relevant.
 
 ## Deshalb
@@ -27,13 +24,9 @@ Nehmen Sie die erste einfache Idee und führen Sie sie durch eine Reihe von dive
 
 * Erstellen Sie 10 bis 20 neue Lösungen/Probleme/Ideen basierend auf der ersten Idee und grenzen Sie diese Liste auf die zwei bis drei besten ein.
 Dann erweitern und iterieren Sie diese zwei bis drei besten in 10 bis 20 neue mögliche Variationen und wählen Sie dann wieder zwei bis drei der vielversprechendsten aus, um längere Experimente durchzuführen und sich für die Umsetzung zu entscheiden.
-
 * Halten Sie regelmäßig Design Thinking Workshops ab.
-
 * Nutzen Sie die Workshops, um große Ideen/Probleme zu verfeinern.
-
 * Laden Sie wichtige Stakeholder ein.
-
 * Erleichtern Sie die Zusammenarbeit, um hervorragende Lösungen zu entwickeln.
 
 ## Folglich
@@ -41,5 +34,5 @@ Dann erweitern und iterieren Sie diese zwei bis drei besten in 10 bis 20 neue m�
 Ideen werden gründlich erforscht.
 Die Kosten für die erste Erkundung sind noch gering, da sie nur wenig bis gar keine tatsächliche Entwicklung erfordert ("Züge ohne Bedauern").
 
+{:.plusminus}
 - {:.minus} Zu viele Beteiligte verlangsamen den Entscheidungsprozess.
-

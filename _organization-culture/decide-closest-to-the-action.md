@@ -1,8 +1,11 @@
-## Muster: Lokale Entscheidungen
+---
+title: Dort Entscheiden, wo es passiert
+title_en: Decide Closest to the Action
+description: Diejenigen, die einer Änderungsaktion am nächsten sind, erhalten die allererste Möglichkeit, alle damit verbundenen Entscheidungen zu treffen.
+layout: pattern
+---
 
-Diejenigen, die einer Änderungsaktion am nächsten sind, erhalten die allererste Möglichkeit, alle damit verbundenen Entscheidungen zu treffen
-
-![](../_images/5e15a73536567966bf1a6177_Decide%20closest%20to%20action.png)
+![Decide Closest to the Action]({{ site.baseurl }}/assets/images/Decide%20closest%20to%20action.png)
 
 ## Ausgangslage
 
@@ -20,11 +23,8 @@ Techniker\*innen könnten eine überlegene Lösung finden, die nie implementiert
 Also werden sie aufgeben und einfach weitermachen, mit dem was sie auch immer haben.
 
 * Die Geschwindigkeit des technologischen Wandels wächst in letzter Zeit exponentiell.
-
 * Der Markt verändert sich nun auch häufig, wobei unerwartete neue Wettbewerber auftauchen.
-
 * In traditionellen Organisationen treffen Manager\*innen alle Entscheidungen und geben den Techniker\*innen Anweisungen.
-
 * Je weiter man sich von der Veränderung entfernt, desto langsamer wird die Entscheidungsfindung mit der Zeit.
 
 ## Deshalb
@@ -36,11 +36,8 @@ Was auch immer also innerhalb eines Microservices geschieht, ist vollständig di
 Aber alles, was rein oder raus geht, ist auch die Domäne der Teams, die diese den Microservice konsumieren.
 
 * Setzen Sie Sicherheitsrichtlinien und Regulierungen ein, um sicherzustellen, dass die Leute diese Entscheidungen treffen dürfen.
-
 * Komplette Trennung der Pflichten: Führungskräfte, die für die Strategie verantwortlich sind. Manager, die für die Festlegung der Ziele verantwortlich sind. Techniker\*innen, die ihre Arbeit so ausführen können, wie sie es am besten sehen.
-
 * Bringen Sie ein, dass es in Ordnung ist, an den Werten der Organisation zu scheitern.
-
 * Nutzen Sie hierarchisches Management zur Konfliktlösung.
 
 ## Folglich
@@ -48,6 +45,6 @@ Aber alles, was rein oder raus geht, ist auch die Domäne der Teams, die diese d
 Führungskräfte delegieren es, die Macht, die Vision und die Ziele zu schaffen, an das mittlere Management.
 Das mittlere Management delegiert die Macht über technische Entscheidungen an die ausführenden Teams.
 
+{:.plusminus}
 - {:.plus} Starker Anreiz, Konflikte zuerst innerhalb des Teams, dann innerhalb des Stammes zu lösen und erst dann an das Management zu gehen.
-
 - {:.minus} Zeit und Mühe sind erforderlich, um sich mit den Teams zu koordinieren, die Ihren speziellen Service in Anspruch nehmen, um sicherzustellen, dass es überall funktioniert.

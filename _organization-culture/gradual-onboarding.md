@@ -1,8 +1,11 @@
-## Muster: Gradweise Einarbeitung     
+---
+title: Sukzessive Einarbeitung 
+title_en: Gradual Onboarding
+description: Beginnen Sie ein bis drei Monate vor der Inbetriebnahme der neuen Plattform mit der Schulung von jeweils zwei Teams mit einer Pause zwischen den einzelnen Gruppen, um Feedback einzubeziehen und den Prozess bzw. das Material zu verbessern.
+layout: pattern
+---
 
-Beginnen Sie ein bis drei Monate vor der Inbetriebnahme der neuen Plattform mit der Schulung von jeweils zwei Teams mit einer Pause zwischen den einzelnen Gruppen, um Feedback einzubeziehen und den Prozess bzw. das Material zu verbessern. 
-
-![](../_images/5e15a9b1d6f7916e20a68110_30.%20gradual%20onboarding.png) 
+![Gradual Onboarding]({{ site.baseurl }}/assets/images/gradual%20onboarding.png)
 
 ## Ausgangslage
 

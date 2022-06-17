@@ -19,11 +19,8 @@ Im ersten Fall wird der Wert erst spät, in schlechter Qualität oder gar nicht 
 Im zweiten Fall sind die Lösungen zu einfach und unterentwickelt und verpassen die Chance, Kundenprobleme zu lösen.
 
 * Viele Prozesse, die auf eine Produktivitätssteigerung abzielen, versuchen dies durch das Vorantreiben von Innovationen zu erreichen.
-
 * Radikale Innovation und kompetente Auslieferung können nicht auf die gleiche Art und Weise erfolgen.
-
 * Innovation ohne Auslieferung ist akademische Forschung.
-
 * Auslieferung ohne Innovation ist blind für Marktveränderungen.
 
 ## Deshalb
@@ -33,7 +30,6 @@ Nutzen Sie die restliche Zeit, um die gefundenen Lösungen zu implementieren und
 
 * Jeder dritte oder vierte Sprint in Scrum sollte für Forschung genutzt werden.
 * 20%-30% des Kanban Backlogs sollten für Innovations- und Verbesserungsaufgaben verwendet werden.
-
 * Wenn eine Lösung nicht klar ist, nutzen Sie Experimente oder PoCs, um Optionen zu entdecken und zu eliminieren.
 
 ## Folglich

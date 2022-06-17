@@ -1,8 +1,7 @@
 ---
 title: Exit-Strategie über Vendor Lock-In
 title_en: Exit Strategy Over Vendor Lock-in
-description: Public-Cloud- oder andere große Produktanbieter können alle Aspekte des Aufbaus und Betriebs einer Cloud-Native-Plattform übernehmen
-Ihre Tools sind oft hervorragend. Aber wenn man sich auf einen Anbieter/eine Technologie/Plattform festlegt, ist es wichtig, eine alternative Lösung und die mit der Umstellung verbundenen Kosten zu identifizieren.
+description: Public-Cloud- oder andere große Produktanbieter können alle Aspekte des Aufbaus und Betriebs einer Cloud-Native-Plattform übernehmen. Ihre Tools sind oft hervorragend. Aber wenn man sich auf einen Anbieter/eine Technologie/Plattform festlegt, ist es wichtig, eine alternative Lösung und die mit der Umstellung verbundenen Kosten zu identifizieren.
 layout: pattern
 ---
 
@@ -22,9 +21,9 @@ Dies führt zu einer vollständigen Abhängigkeit vom Anbieter.
 Wenn der Anbieter in Schwierigkeiten ist oder eine bessere Option auf dem Markt verfügbar wird, kann sich das Unternehmen einen Wechsel nicht leisten.
 Das führt dazu, dass nicht gewartete oder minderwertige Technologie verwendet wird.
 
-- Jede Wahl ist mit Risiken verbunden.
-- Jede Entscheidung kann rückgängig gemacht werden &ndash; es ist nur eine Frage der Kosten.
-- Einige Branchen erfordern mehrere Anbieter für jede Lösung.
+* Jede Wahl ist mit Risiken verbunden.
+* Jede Entscheidung kann rückgängig gemacht werden &ndash; es ist nur eine Frage der Kosten.
+* Einige Branchen erfordern mehrere Anbieter für jede Lösung.
 
 ## Deshalb
 
@@ -35,11 +34,11 @@ Oftmals überwiegen niedrigere Kosten und höhere Produktivität das Risiko.
 Erwägen Sie, Architekturänderungen zu bevorzugen, die die Kosten der Migration senken, falls diese einmal erforderlich sein wird.
 Solche Änderungen können kostengünstig sein, wenn sie in den frühesten Phasen des Projekts durchgeführt werden, und sie können das Risiko einer zukünftigen Migration erheblich reduzieren.
 
-- Bereiten Sie für den Fall der Fälle einen Migrationsplan vor.
-- Erwägen Sie die Reduzierung von Abhängigkeiten, die das Risiko deutlich erhöhen.
-- Cloud-Anbieter könnten jetzt durch ihre gute dokumentierte Migrationsunterstützung eine große Hilfe sein.
-- Geschlossene Ökosysteme bieten oft ein ausgezeichnetes Set an Werkzeugen/Optionen.
-- Investieren Sie in häufig verwendete Tools und Technologien, die zu Industriestandards werden können.
+* Bereiten Sie für den Fall der Fälle einen Migrationsplan vor.
+* Erwägen Sie die Reduzierung von Abhängigkeiten, die das Risiko deutlich erhöhen.
+* Cloud-Anbieter könnten jetzt durch ihre gute dokumentierte Migrationsunterstützung eine große Hilfe sein.
+* Geschlossene Ökosysteme bieten oft ein ausgezeichnetes Set an Werkzeugen/Optionen.
+* Investieren Sie in häufig verwendete Tools und Technologien, die zu Industriestandards werden können.
 
 ## Folglich
 
