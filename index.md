@@ -10,7 +10,7 @@ Diese Seite ist eine inoffizielle, deutsche Übersetzung von [cnpatterns.org](ht
 
 # Wer steckt hinter der Übersetzung?
 
-* [Markus Harrer](https://markusharrer.de/) ([Twitter](https://twitter.com/feststelltaste), [GitHub](https://github.com/feststelltaste)
+* [Markus Harrer](https://markusharrer.de/) ([Twitter](https://twitter.com/feststelltaste), [GitHub](https://github.com/feststelltaste))
 * Du? (gerne mitwirken, da die Übersetzung noch lange nicht abgeschlossen ist. In den [GitHub-Issues](https://github.com/feststelltaste/cloud-native-muster/issues) gibt es ein paar offene Punkte)
 
 # Was sind Cloud Native Muster?
