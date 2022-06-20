@@ -6,7 +6,12 @@ layout: homepage
 
 # Was ist diese Seite?
 
-Diese Seite ist eine inoffizielle, deutsche Übersetzung von [cnpatterns.org](https://cnpatterns.org), welche von [Markus Harrer](https://www.innoq.com/de/staff/markus-harrer/) [@feststelltaste](https://twitter.com/feststelltaste) ins Leben gerufen wurde.
+Diese Seite ist eine inoffizielle, deutsche Übersetzung von [cnpatterns.org](https://cnpatterns.org). Der Seiteninhalt ist ein abgeleitetes Werk des [Originals](https://github.com/ContainerSolutions/cloud-native-patterns) und ist wie das Original unter der [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0) lizenziert.
+
+# Wer steckt hinter der Übersetzung?
+
+* [Markus Harrer](https://markusharrer.de/) ([Twitter](https://twitter.com/feststelltaste), [GitHub](https://github.com/feststelltaste)
+* Du? (gerne mitwirken, da die Übersetzung noch lange nicht abgeschlossen ist)
 
 # Was sind Cloud Native Muster?
 
