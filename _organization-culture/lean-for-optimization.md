@@ -1,8 +1,11 @@
-## Muster: Schlankheit für Optimierung
+---
+title: Lean für Optimierung
+title_en: Lean for Optimization
+description: Wenn ein stabiles System den beabsichtigten Wert liefert und kein Ziel für technische Innovationen ist, sollten Sie sich auf die Verbesserung des Systems konzentrieren, indem Sie die Auslieferungs- und Wartungsprozesse kontinuierlich und inkrementell verbessern, wobei der Schwerpunkt auf der Wiederholbarkeit liegt.
+layout: pattern
+---
 
-Wenn ein stabiles System den beabsichtigten Wert liefert und kein Ziel für technische Innovationen ist, sollten Sie sich auf die Verbesserung des Systems konzentrieren, indem Sie die Auslieferungs- und Wartungsprozesse kontinuierlich und inkrementell verbessern, wobei der Schwerpunkt auf der Wiederholbarkeit liegt.
-
-![](../_images/5e15aa777ff1c641194f9796_48.%20Internal%20evangelism_.png)
+![Lean for Optimization]({{ site.baseurl }}/assets/images/Internal%20evangelism_.png)
 
 ## Ausgangslage
 
@@ -17,13 +20,9 @@ Es besteht jedoch wenig Notwendigkeit für Innovationen, wenn ein leistungsfähi
 Und wir sehen oft, dass das Team in einem ansonsten tüchtigen System weiterhin neue Werkzeuge und Lösungen einführt, die das Produkt ständig destabilisieren und dabei unnötig Zeit und Budget verschlingen.
 
 * Wiederholbarkeit führt zu Langeweile.
-
 * Qualität erfordert Investitionen.
-
 * Kreativität und Kompetenz erfordern unterschiedliche Management-Rahmenbedingungen.
-
 * Kompetenz und Beherrschung erfordern Wiederholbarkeit und Standards.
-
 * Kreativität erfordert Freiheit und psychologische Sicherheit, um Experimente zu generieren.
 
 ## Deshalb
@@ -32,13 +31,9 @@ Reduzieren Sie die gleichzeitige Arbeit an mehreren Dingen ("work in progress"),
 Lean-Management optimiert die Leistungsfähigkeit und den Wert für die Kunden, während es gleichzeitig alles, was dem Endprodukt/der Dienstleistung keinen Wert verleiht, eliminiert und eine kontinuierliche, schrittweise Verbesserung gewährleistet.
 
 * Nutzen Sie Kanban mit Optimierung und Rückstand an neuen Funktionen.
-
 * Messen Sie alles, was wichtig ist.
-
 * Optimieren Sie das Preis-Leistungs-Verhältnis.
-
 * Optimieren Sie Prozesse zu Kompetenz.
-
 * Automatisieren Sie wiederholbare Aufgaben.
 
 ## Folglich
@@ -46,10 +41,8 @@ Lean-Management optimiert die Leistungsfähigkeit und den Wert für die Kunden, 
 Die Lieferung erfolgt schnell und kompetent.
 Das System ist stabil und die Qualität steigt ständig.
 
+{:.plusminus}
 - {:.plus} Keine Zerstörung eines effizienten Systems.
-
 - {:.plus} Allmählich steigende Qualität.
-
 - {:.minus} Sehr begrenzte Innovation.
-
 - {:.minus} Einige Leute langweilen sich.

@@ -1,8 +1,11 @@
-## Muster: Fortwährende Ausbildung
+---
+title: Fortwährende Ausbildung
+title_en: Ongoing Education
+description: Ständig neue Wege einführen und bestehende verbessern, um Teams dabei zu unterstützen, ihr Wissen und ihre Fähigkeiten in der Cloud kontinuierlich weiterzuentwickeln.
+layout: pattern
+---
 
-Ständig neue Wege einführen und bestehende verbessern, um Teams dabei zu unterstützen, ihr Wissen und ihre Fähigkeiten in der Cloud kontinuierlich weiterzuentwickeln.
-
-![](../_images/5e15b0d6274eec2a57baa590_31.%20ongoing%20education.png)
+![Ongoing Education]({{ site.baseurl }}/assets/images/ongoing%20education.png)
 
 ## Ausgangslage
 
@@ -17,13 +20,9 @@ Ständig werden neue Technologien eingeführt, die die aktuellen Tools und Techn
 Wenn dies geschieht, leidet die Produktivität und Veränderungen verlangsamen sich.
 
 * Nur einige Menschen sind motiviert, selbstständig zu lernen.
-
 * Menschen lernen besser in Gruppen.
-
 * Formale Bildung ist effektiver, wenn man sich mit neuen Informationen vertraut gemacht hat bzw. Erfahrungen mit neuen Informationen gesammelt hat.
-
 * Die meisten Menschen müssen einige Male etwas lernen, bevor sie es vollständig verstehen.
-
 * Das Ökosystem der Cloud verändert sich schnell.
 
 ## Deshalb
@@ -31,31 +30,21 @@ Wenn dies geschieht, leidet die Produktivität und Veränderungen verlangsamen s
 Aufbau und kontinuierliche Durchführung eines Schulungsprogramms über Cloud Native für jeden im Unternehmen &ndash; von der Grundausbildung für neu eingestellte oder neu hinzugekommene Mitarbeiter bis hin zu kontinuierlichen und weiterführenden Schulungen für erfahrenere Techniker.
 
 * Einstiegs-Bootcamps
-
 * Hackathons
-
 * Regelmäßige Wissensaktualisierungen
-
 * Management-Trainings
-
 * Online-Selbstlernmöglichkeiten
-
 * Bücher, Blogeinträge und andere Lektüre
-
 * Lernen am Arbeitsplatz durch Pair Programmierung, Whiteboarding usw.
 
 ## Folglich
 
 Das Wissen des Teams wird ständig aufgefrischt und aktualisiert.
 
+{:.plusminus}
 - {:.plus} Einfache Möglichkeiten zur Einführung neuer Informationen.
-
 - {:.plus} Viel Inspiration für das Ausprobieren von Änderungen.
-
 - {:.plus} Entwickler sind besser in der Lage, sich an technologische Veränderungen anzupassen.
-
 - {:.plus} Technologische Veränderungen, die unvermeidlich sind, werden nur minimale Störungen verursachen, da sich die Entwickler besser an den Wandel der Technologie anpassen können.
-
 - {:.plus} Durch die Verbreitung bewährter Praktiken und erfolgreicher Methoden zur Nutzung von Technologie können Sie Erfolge wiederholen und Fehltritte vermeiden.
-
 - {:.minus} Es entstehen Kosten im Zusammenhang mit der häufigen Ausbildung.

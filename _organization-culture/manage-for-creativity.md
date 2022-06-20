@@ -1,8 +1,15 @@
+---
+title: Manage für Kreativität
+title_en: Manage for Creativity
+description: Teams, die Innovationen benötigen, brauchen die Freiheit, ihren Weg zu Lösungen zu experimentieren, ohne Druck auszuüben, um bestimmte Ergebnisse nach einem festgelegten Zeitplan zu liefern &ndash; und die Freiheit, auf dem Weg dorthin manchmal zu scheitern.
+layout: pattern
+---
+
+![Manage for Creativity]({{ site.baseurl }}/assets/images/manage%20for%20creativity.png)
+
 ## Muster: Manage für Kreativität
 
 Teams, die Innovationen benötigen, brauchen die Freiheit, ihren Weg zu Lösungen zu experimentieren, ohne Druck auszuüben, um bestimmte Ergebnisse nach einem festgelegten Zeitplan zu liefern &ndash; und die Freiheit, auf dem Weg dorthin manchmal zu scheitern.
-
-![](../_images/5e15ac70274eec58b9ba929e_11.%20manage%20for%20creativity.png)
 
 ## Ausgangslage
 
@@ -18,11 +25,8 @@ Das Abarbeiten einer endlosen Anzahl an Tasks, ohne viel Nachdenken über den We
 Kein Erfinder kann sagen, wann und was genau er erfinden wird.
 
 * Kreatives Denken erfordert Zeit und Freiheit, um zu erforschen, und Sicherheit, um zu scheitern.
-
 * Start-ups tendieren dazu, die Kreativität zu fördern.
-
 * Unternehmen tendieren dazu, Kompetenz, Geschwindigkeit und Qualität der Leistung stark zu fördern.
-
 * Scrum und ähnliche Methoden erzeugen Druck, um zu Liefern und reduzieren freies Denken.
 
 ## Deshalb
@@ -37,19 +41,15 @@ Zwar können sich viele Teams innerhalb der Organisation auf die Bereitstellung 
 Da seine Aufgabe darin besteht, die wahrscheinlichen nächsten Schritte für die nahe Zukunft des Unternehmens zu untersuchen, muss es anders arbeiten als die Teams, die Prozesse im bestehenden System ausführen.
 
 * Psychologische Sicherheit ist für die Entfaltung der Kreativität unerlässlich.
-
 * Der Zweck muss praktisch und erreichbar sein.
-
 * Kreative Teams sollten sich der Innovation widmen und keine regelmäßigen Lieferaufgaben haben.
-
 * Innovations-Champions sind dafür verantwortlich, Projekte, die sich für die Produktion als wertvoll erweisen, in die H1/H2/H3-Teams zu bringen. Diese Rolle kann vom designierten Strategen oder einer anderen Person, die offiziell verantwortlich sein kann, übernommen werden.
 
 ## Folglich
 
 Innovation gedeiht im Unternehmen und die innovativen Teams werden von den kompetenten Teams getrennt.
 
+{:.plusminus}
 - {:.plus} Kreative Teams haben die Möglichkeit; zu erfinden und die Sicherheit; zu versagen.
-
 - {:.minus} Keine Gewissheit bei der Lieferung, aber die Projekte sind immer zeitgebunden.
-
 - {:.minus} Es ist schwierig, die Ergebnisse in der Zukunft vorherzusagen, aber es ist leicht, den Erfolg im Nachhinein zu messen.

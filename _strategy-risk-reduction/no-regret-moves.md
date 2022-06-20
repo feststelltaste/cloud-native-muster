@@ -1,8 +1,11 @@
-## Muster: Züge ohne Bedauern (No Regret Moves)
+---
+title: Züge ohne Reue
+title_en: No Regret Moves
+description: Kleine, schnelle Aktionen, die wenig Zeit und Geld erfordern, aber das Wissen erhöhen, das Risiko reduzieren und der gesamten Organisation zugutekommen (angewandt innerhalb oder außerhalb eines Transformationsszenarios).
+layout: pattern
+---
 
-Kleine, schnelle Aktionen, die wenig Zeit und Geld erfordern, aber das Wissen erhöhen, das Risiko reduzieren und der gesamten Organisation zugutekommen (angewandt innerhalb oder außerhalb eines Transformationsszenarios).
-
-![](../_images/5e148afca23876a1bd936f1c_66.%20No%20regret%20move.png)
+![No Regret Moves]({{ site.baseurl }}/assets/images/No%20regret%20move.png)
 
 ## Ausgangslage
 
@@ -18,9 +21,7 @@ In Wasserfallorganisationen, die typischerweise mit bekannten Technologien in ei
 Aber in einer sehr volatilen Cloud-Umgebung kann sie leicht zu einer Katastrophe führen oder (noch schlimmer) zu vergeudeten Jahren ohne klaren Erfolg oder Misserfolg.
 
 * Veränderungen erzeugen Ängste, so dass Menschen dazu neigen, sie zu vermeiden.
-
 * In den frühen Phasen einer Cloud-Native-Transformation gibt es innerhalb der Organisation wenig Wissen oder Erfahrung rund um Cloud-Native-Architektur/-Technik/-Kultur.
-
 * Die Situation ist sehr unsicher und es ist sehr riskant, frühzeitig große Commitments einzugehen.
 
 ## Deshalb
@@ -29,9 +30,7 @@ Einige Verbesserungen der betrieblichen Effektivität &ndash; einschließlich Tr
 Diese kleinen, aber vorteilhaften und praktisch risikofreien Schritte sind besonders wertvoll in den ersten, sehr unsicheren Tagen einer Cloud-Migration und bilden die erste der drei Stufen der abgestuften Transformationsrisiko-Management-Strategie.
 
 * Eine eingehende Qualitätsbewertung wie die Cloud Native Maturity Matrix schafft ein Situationsbewusstsein, das für das Unternehmen jetzt allgemein wertvoll ist, aber auch als Gap-Analyse für zukünftige Schritte dient.
-
 * Schulungen und Weiterbildungsangebote binden die Mitarbeiter und frischen ihr Wissen ständig auf.
-
 * Hackathons und kleine Experimente decken technische Antworten durch praktische Aktionen auf.
 
 ## Folglich
@@ -39,7 +38,6 @@ Diese kleinen, aber vorteilhaften und praktisch risikofreien Schritte sind beson
 Die Organisation hat sich ein Selbstbewusstsein und Wissen erarbeitet, ohne viel Zeit und Geld zu investieren.
 Das Risiko wurde schrittweise gesenkt und die Führungskräfte des Unternehmens sind bereit, den nächsten Schritt bei der Festlegung des Transformationspfades zu gehen.
 
+{:.plusminus}
 - {:.plus} Wenn die Mitarbeiter mehr wissen, fühlen sie sich selbstbewusster, was ihre Fähigkeit erhöht, Herausforderungen kreativ und proaktiv zu begegnen.
-
--\ Da die Züge ohne Bedauern so erschwinglich und vorteilhaft sind, könnte das Unternehmen in dieser Phase zu lange stecken bleiben und den Beginn der Transformation verzögern.
-
+- {:.minus} Da die Züge ohne Bedauern so erschwinglich und vorteilhaft sind, könnte das Unternehmen in dieser Phase zu lange stecken bleiben und den Beginn der Transformation verzögern.

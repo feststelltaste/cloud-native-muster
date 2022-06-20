@@ -1,8 +1,11 @@
-## Muster: Design Thinking für radikale Innovation
+---
+title: Design Thinking für radikale Innovation
+title_en: Design Thinking for Radical Innovation
+description: Egal, ob es sich um eine radikal neue Idee oder ein großes Problem handelt, Design Thinking kann als Prozess genutzt werden, um zunächst eine robuste Liste von Lösungen zu erstellen und diese dann auf die besten Möglichkeiten für die tatsächliche Erkundung einzugrenzen.
+layout: pattern
+---
 
-Egal, ob es sich um eine radikal neue Idee oder ein großes Problem handelt, Design Thinking kann als Prozess genutzt werden, um zunächst eine robuste Liste von Lösungen zu erstellen und diese dann auf die besten Möglichkeiten für die tatsächliche Erkundung einzugrenzen.
-
-![](../_images/5e15a7f47ff1c696754e6111_13.%20design%20thinking%20for%20(R)%20innovation.png)
+![Design Thinking for Radical Innovation]({{ site.baseurl }}/assets/images/design%20thinking%20for%20(R)%20innovation.png)
 
 ## Ausgangslage
 

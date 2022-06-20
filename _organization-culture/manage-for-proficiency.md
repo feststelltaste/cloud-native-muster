@@ -1,8 +1,11 @@
-## Muster: Verwalten für Kompetenz
+---
+title: Manage für Kompetenz
+title_en: Manage for Proficiency
+description: Teams, die stabile und sich stark wiederholende oder algorithmische Arbeit leisten, sollten für hohe Qualität und optimale Effizienz geführt werden.
+layout: pattern
+---
 
-Teams, die stabile und sich stark wiederholende oder algorithmische Arbeit leisten, sollten für hohe Qualität und optimale Effizienz geführt werden.
-
-![](../_images/5e15ad199ba5cb99244408de_12.%20manage%20for%20proficiency.png)
+![Manage for Proficiency]({{ site.baseurl }}/assets/images/manage%20for%20proficiency.png)
 
 ## Ausgangslage
 
@@ -18,9 +21,7 @@ In vielen Fällen ist die neue Cloud-Native-Plattform noch nicht bereit oder sta
 Wenn diese Teams zu früh mit der Innovation beginnen, kann dies zu erheblichen Kosten für die Produktivität und Produktqualität führen.
 
 * Etablierte Unternehmen wünschen sich Kreativität, weil sie in der Regel nicht genug davon haben.
-
 * Startups sind hochgradig kreativ, wünschen sich aber dennoch Kompetenz, weil sie danach streben, ein konsistentes, lieferbares Produkt zu schaffen.
-
 * Die typische Unternehmenskultur unterstützt in hohem Maße eine kompetente, sogar algorithmische Arbeitsweise.
 
 ## Deshalb
@@ -32,13 +33,9 @@ Es ist wichtig, dass die kompetenten Teams ihre Kompetenz behalten und sie so be
 Sobald ein System (oder ein neues Produkt) die Innovationsphase verlassen hat und sich in einer konstanten Produktion befindet, können die meisten Ressourcen in der Regel von der Forschung und dem Experimentieren weg und zurück zu einem meist kompetenten Ansatz bewegt werden.
 
 * Lassen Sie sie wissen, dass sie geschätzt werden: Die Aufrechterhaltung bestehender Produktlinien in hoher Qualität ist für das Unternehmen wichtig.
-
 * Versprechen Sie ihnen, dass sie zu gegebener Zeit in das neue System aufgenommen werden, wenn die Zeit dafür reif ist.
-
 * Streben Sie danach, den Stolz des Teams auf die bestmöglichen Ergebnisse und die qualitativ hochwertigsten Produkte zu schaffen.
-
 * Das Management von kompetenten Teams erfordert eine hohe Wiederholungsrate, ein hohes Maß an Feedback und ein starkes Zugehörigkeitsgefühl.
-
 * Betonen Sie, dass beide Arten von Teams notwendig und wichtig für die Organisation sind. Vermeiden Sie die Wahrnehmung oder Realität, dass kreative Arbeit mehr belohnt wird.
 
 ## Folglich
@@ -46,18 +43,6 @@ Sobald ein System (oder ein neues Produkt) die Innovationsphase verlassen hat un
 Die Teams, die für die kompetente Bereitstellung der gewinnbringenden Produkte/Dienstleistungen des Unternehmens verantwortlich sind, werden so geführt, dass sie dies optimieren können.
 Kompetente und kreative Teams werden gleichermaßen geliebt und geschätzt.
 
+{:.plusminus}
 - {:.plus} Wenn sich der Markt in großem Umfang und/oder häufig ändert, kann das Unternehmen bei Bedarf Ressourcen in Kreativität und Innovation verlagern. Aber Kreativität ist teuer, also sollten Sie auf kompetente Teams zurückgreifen, wenn die Dinge stabil/vorhersehbar sind.
-
 - {:.minus} Einige Teams müssen möglicherweise dauerhaft in der alten Codebasis arbeiten (siehe "Heben und Verschieben am Ende").
-
-
-
-
-
-
-
-
-
-
-
-

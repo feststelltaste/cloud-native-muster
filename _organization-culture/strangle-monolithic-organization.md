@@ -1,6 +1,11 @@
-## Muster: Monolithische Organisation abbauen
+---
+title: Monolithische Organisation abbauen
+title_en: Strangle Monolithic Organization
+description: So wie die neuen Tools, Technologien und Infrastrukturen im Laufe einer Transformationsinitiative allmählich eingeführt werden, müssen sich auch die Organisation und ihre Teams weiterentwickeln, um mit ihnen richtig zu arbeiten.
+layout: pattern
+---
 
-So wie die neuen Instrumente, Technologien und Infrastrukturen im Laufe einer Transformationsinitiative allmählich eingeführt werden, müssen sich auch die Organisation und ihre Teams weiterentwickeln, um mit ihnen richtig zu arbeiten.
+![Strangle Monolithic Organization]({{ site.baseurl }}/assets/images/Strangle%20monolithic%20organisation.png)
 
 ![](../_images/5e15e5c078f3a384ae17bf4b_Strangle%20monolithic%20organisation.png)
 
@@ -21,11 +26,8 @@ Sie werden nie mit der coolen neuen Technologie spielen und moderne Entwicklerf�
 Dies führt natürlich zu Frustration, Ressentiments und verminderter Motivation, ganz zu schweigen von den Schwierigkeiten, Techniker einzustellen und zu halten.
 
 * Die Umwandlung zu Cloud Native nimmt viel Zeit in Anspruch.
-
 * Wenn Menschen etwas lernen, müssen sie es sehr bald anwenden.
-
 * Eine Fehlausrichtung von Technik und Organisationskultur führt zu Frustration.
-
 * Die Menschen werden durch die Hoffnung auf zukünftige Verbesserungen motiviert oder durch mangelnde Hoffnung frustriert.
 
 ## Deshalb
@@ -38,13 +40,9 @@ Die beiden Systeme, das alte und das neue, können während des Migrationsprozes
 Sobald der Prozess abgeschlossen ist, können die verbleibenden Teile des Altsystems auf die neue Cloud-Native-Plattform portiert werden (Lift and Shift am Ende) und nach und nach in Microservices umgestaltet werden, bis der alte Monolith nicht mehr vorhanden ist und die Wartungsmitarbeiter nun Erfahrung mit Cloud Native haben.
 
 * Ständige Weiterbildung.
-
 * Fördern Sie das Experimentieren.
-
 * Wechsel von der Hierarchie zu Stämmen und Delegation.
-
 * Vermeiden Sie Training und Umstrukturierung, wenn das Team nicht plant, bald auf Cloud Native umzusteigen.
-
 * Erstellen Sie einen Plan für alle Legacy-Teams, führen Sie ihn aber erst aus, wenn der Umzug kurz bevorsteht.
 
 ## Folglich
@@ -55,12 +53,9 @@ Die Teams werden erst dann umstrukturiert und umgeschult, wenn es Zeit für sie 
 Während Sie auf der alten Plattform arbeiten, liefern Sie weiterhin hervorragende Leistungen.
 Anschließend wechseln Sie zur neuen Plattform und liefern dort ebenso gut.
 
+{:.plusminus}
 - {:.plus} Es gibt einen klaren Plan für alle Teams.
-
 - {:.plus} Organisatorische / kulturelle Veränderungen sind auf die technischen Veränderungen abgestimmt.
-
 - {:.plus} Ursprüngliche und neue Kulturen existieren nebeneinander, aber nur vorübergehend, bis der vollständige Transfer in die Cloud abgeschlossen ist.
-
 - {:.minus} Mögliche Zusammenstöße zwischen den Teams.
-
 - {:.minus} Legacy-Teams könnten durch mangelnde Veränderungen enttäuscht werden.

@@ -1,6 +1,9 @@
-## Muster: Lernschleife (Feedback-Loop)
-
-Durch den Einbau der Feedback-Sammlung in den Auslieferungsprozess wird der Kreis zwischen den entwickelnden Teams und den Menschen, die ihre Produkte verwenden, geschlossen, wodurch der Kunde in den Mittelpunkt des Produktentwicklungszyklus gestellt wird.
+---
+title: Lernschleife
+title_en: Learning Loop
+description: Durch den Einbau der Feedback-Sammlung in den Auslieferungsprozess wird der Kreis zwischen den entwickelnden Teams und den Menschen, die ihre Produkte verwenden, geschlossen, wodurch der Kunde in den Mittelpunkt des Produktentwicklungszyklus gestellt wird.
+layout: pattern
+---
 
 ![](../_images/5e148523a18ed9397bac016d_69.%20Learning%20loop.png)
 
@@ -34,9 +37,7 @@ Wenn Sie kein Feedback sammeln, verringert sich der Wert der von Cloud Native ge
 
 Wenden Sie die "Datenorientierte Entscheidungsfindung" auf den schnellen Bereitstellungszyklus von Cloud Native an. So fließt der Output des Systems kontinuierlich zurück, um das System zu verbessern. Sie können damit schnell vorgehen, ohne etwas kaputt zu machen.
 
-+ Entwickler erfassen die Dynamik der Verbesserungen, was zu weiteren Verbesserungen führt.
-
-- Observability ist kompliziert und muss sorgfältig entwickelt werden, um die richtigen Erkenntnisse zu gewinnen.
-
-- Was Kunden wollen, ist nicht immer machbar oder kosteneffektiv.
-
+{:.plusminus}
+- {:.plus} Entwickler erfassen die Dynamik der Verbesserungen, was zu weiteren Verbesserungen führt.
+- {:.minus} Observability ist kompliziert und muss sorgfältig entwickelt werden, um die richtigen Erkenntnisse zu gewinnen.
+- {:.minus} Was Kunden wollen, ist nicht immer machbar oder kosteneffektiv.

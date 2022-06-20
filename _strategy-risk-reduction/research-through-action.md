@@ -1,8 +1,11 @@
-## Muster: Forschung durch Machen
+---
+title: Forschen durch Machen
+title: Research Through Action
+description: Menschen können manchmal Forschung als eine Möglichkeit nutzen, um blinde Entscheidungen zu vermeiden und stattdessen mit praktischem Lernen durch kleine Experimente das Selbstvertrauen stärken und den Fortschritt lostreten.
+layout: pattern
+---
 
-Menschen können manchmal Forschung als eine Möglichkeit nutzen, um blinde Entscheidungen zu vermeiden und stattdessen mit praktischem Lernen durch kleine Experimente das Selbstvertrauen stärken und den Fortschritt lostreten.
-
-![](../_images/5e149760775c498d531f4657_5.%20research%20through%20action.png)
+![Research Through Action]({{ site.baseurl }}/assets/images/research%20through%20action.png)
 
 ## Ausgangslage
 
@@ -16,11 +19,8 @@ Der Aufwand, so viele neue Informationen aufzunehmen, kann auch überwältigend 
 All dies führt zum Prokrastinieren, weil es keine effektive Datenerhebung dafür gibt, um einen Plan tatsächlich voranzutreiben &ndash; es ist Forschung um der Forschungs Willen.
 
 * Wenn Menschen nicht scheitern dürfen, vermeiden sie es, Risiken einzugehen.
-
 * Schnelles Handeln birgt ein großes Risiko.
-
 * Wenn die Kosten des Handelns hoch sind, neigen die Menschen dazu, Dinge hinauszuzögern und auf weitere Informationen zu warten.
-
 * In einer Welt mit vielen Abhängigkeiten erfordert das Handeln die Einbeziehung anderer.
 
 ## Deshalb
@@ -36,18 +36,14 @@ Dann noch eine und noch eine.
 Machen Sie so lange weiter, bis Sie genug Informationen über das, was vor sich geht, gesammelt haben und dann könnte ein bisschen Planung angebracht sein.
 
 * Experimente und Proof of Concepts statt detaillierter Architekturdokumente.
-
 * Begrenzen Sie das Handlungsrisiko mit kurzen Fristen und geringen Kosten.
 
 ## Folglich
 
 Sie machen kleine, aber spürbare Fortschritte durch kleine, iterative Schritte.
 
+{:.plusminus}
 - {:.plus} Entdecken Sie Unbekanntes durch Experimentieren.
-
 - {:.plus} Steigern Sie die Motivation des Teams und das gemeinsame Lernen.
-
 - {:.plus} Viele Experimente scheitern &ndash; das ist in Ordnung.
-
 - {:.plus} Eine Lösung, die noch nicht komplett ausgegoren ist, kann immer noch eine valide Option sein.
-

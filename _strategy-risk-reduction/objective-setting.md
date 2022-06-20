@@ -1,8 +1,11 @@
-## Muster: Klare Zielsetzung
+---
+title: Klare Zielsetzung
+title: Objective Setting
+description: Nachdem eine Transformationsvision festgelegt wurde, besteht der nächste Schritt darin, diese in pragmatische Ziele und Maßnahmen umzusetzen, um die Initiative voranzubringen.
+layout: pattern
+---
 
-Nachdem eine Transformationsvision festgelegt wurde, besteht der nächste Schritt darin, diese in pragmatische Ziele und Maßnahmen umzusetzen, um die Initiative voranzubringen.
-
-![](../_images/5e148ec3a18ed96cdbac540e_62.%20Objective%20setting.png)
+![Objective Setting]({{ site.baseurl }}/assets/images/Objective%20setting.png)
 
 ## Ausgangslage
 
@@ -16,11 +19,9 @@ Es gibt immer noch ein insgesamt niedriges Niveau an Cloud-Native-Know-how auf a
 Es gibt ein Commitment und eine Vision für die Transformation, aber konkrete Schritte müssen noch definiert werden
 Es gibt wenig Wissen oder Verständnis für die Cloud-Native-Technologie und die dazu notwendige Kultur innerhalb der Organisation.
 
-\* Veränderung erzeugt Angst und Unsicherheit.
-
-\* Veränderung schafft auch Chancen: wenn Sie weiterhin dasselbe tun, wie ist die Chance, dass Sie neue Ergebnisse erzielen?
-
-\* Wenn sich der Arbeitsumfang signifikant ändert, muss ein neues Führungskräfte-Commitment für das veränderte Projekt abgegeben werden.
+* Veränderung erzeugt Angst und Unsicherheit.
+* Veränderung schafft auch Chancen: wenn Sie weiterhin dasselbe tun, wie ist die Chance, dass Sie neue Ergebnisse erzielen?
+* Wenn sich der Arbeitsumfang signifikant ändert, muss ein neues Führungskräfte-Commitment für das veränderte Projekt abgegeben werden.
 
 ## Deshalb
 
@@ -34,9 +35,7 @@ Die spezifischen und greifbaren Ziele für diese Strategie wären: Verwendung vo
 Diese Ziele können wiederum in noch spezifischere Teilbereiche unterteilt werden, für die jeweils detailliertere Ziele erstellt werden.
 
 * Lernen Sie den Markt weiter kennen.
-
 * Passen Sie die Strategie immer wieder an neue Bedingungen an, um neue Informationen aufzudecken.
-
 * Machen Sie die Strategie explizit, sichtbar und erklären Sie allen Beteiligten die Prioritäten, damit sie selbst bessere Entscheidungen treffen können.
 
 ## Folglich
@@ -44,11 +43,8 @@ Diese Ziele können wiederum in noch spezifischere Teilbereiche unterteilt werde
 Die ursprüngliche Strategie wird kontinuierlich verbessert, angepasst und in klare und konkrete Ziele umgesetzt.
 Die relevanten Teams im Unternehmen wissen, was sie erreichen müssen und liefern dem oberen Management ständig neue Informationen.
 
+{:.plusminus}
 - {:.plus} Das Team kennt die aktuelle Ausrichtung und die Prioritäten.
-
 - {:.minus} Die Beobachtung des Marktes und der aktuellen Bedingungen ist kostenintensiv, erfordert Zeit und Aufwand.
-
 - {:.minus} Ständige Änderungen der Strategie führen zu Verwirrung und möglicherweise zu Frustration in den Teams.
-
 - {:.minus} Es ist schwierig, die Richtung zu ändern, besonders wenn man in eine bestimmte Richtung geht.
-

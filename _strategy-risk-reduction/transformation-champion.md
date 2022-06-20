@@ -1,8 +1,11 @@
-## Muster: Transformations-Champion
+---
+title: Transformations-Champion
+title_en: Transformation Champion
+description: Wenn eine Person eine gute neue Idee fördert, die die Ziele und Werte des Unternehmens in die Zukunft tragen kann, erkennen Sie dies und befähigen Sie diese Person dazu, die Initiative zu leiten.
+layout: pattern
+---
 
-Wenn eine Person eine gute neue Idee fördert, die die Ziele und Werte des Unternehmens in die Zukunft tragen kann, erkennen Sie dies und befähigen Sie diese Person dazu, die Initiative zu leiten.
-
-![](../_images/5e149fc6cf3b9375328ccb26_45.%20Transformation%20champion.png)
+![Transformation Champion]({{ site.baseurl }}/assets/images/Transformation%20champion.png)
 
 ## Ausgangslage
 
@@ -17,9 +20,7 @@ Ein noch kleinerer Teil von ihnen ist bereit und in der Lage, organisierte Maßn
 Ohne solche motivierenden Vordenker verpufft die Initiative oft und geht nur dann weiter, wenn die Geschäftsleitung einen gewissen bürokratischen Druck ausübt, um sie voranzutreiben.
 
 * Veränderung erzeugt Angst, so dass die Menschen dazu neigen, sie zu vermeiden.
-
 * Es gibt wenig Wissen oder Erfahrung innerhalb der Organisation rund um Cloud-Native-Architekturen/-Technologien.
-
 * Ein etabliertes Unternehmen, das es gewohnt ist, ein hochkompetentes Produkt/Service zu liefern, wird wahrscheinlich Schwierigkeiten haben, innovativ zu sein.
 
 ## Deshalb
@@ -34,9 +35,7 @@ Der Transformations-Champion ist eine Person (oder ein kleines Team), die sowohl
 Ohne Autorität werden sie jedoch nicht in der Lage sein, effektive Veränderungen in der gesamten Organisation zu fördern.
 
 * Schaffen Sie keinen Champion: Entdecken Sie den, der oder die schon da ist.
-
 * Befähigen Sie diese Person/Gruppe, die Initiative zu leiten.
-
 * Veröffentlichen Sie ihre Rolle als autorisierter Champion.
 
 ## Folglich
@@ -44,9 +43,7 @@ Ohne Autorität werden sie jedoch nicht in der Lage sein, effektive Veränderung
 Die Transition hat eine Anlaufstelle für die Organisation der Transformationsinitiative und eine vordenkende Person, die sie vorantreibt.
 Der Transformations-Champion ist sowohl mit den kompetenten als auch mit den innovativen Zweigen der Transformation verbunden und kann als Brücke zwischen ihnen fungieren.
 
+{:.plusminus}
 - {:.plus} Der Transformations-Champion evangelisiert die Initiative in der gesamten Organisation.
-
 - {:.plus} Die Führungskräfte der Organisation bevollmächtigen den Champion öffentlich mit der Autorität zum voranführen.
-
 - {:.plus} Das Unternehmen verfügt nun über einen Kanal für die Wiedereinführung von Innovationen bei gleichzeitiger Aufrechterhaltung der Fertigungsfähigkeit.
-

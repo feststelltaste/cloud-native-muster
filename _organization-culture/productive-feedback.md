@@ -1,8 +1,12 @@
-## Muster: Produktives Feedback
+---
+title: Produktives Feedback
+title_en: Productive Feedback
+description: Menschen sind engagierter und kreativer, wenn sie sich wohl fühlen, wenn sie konstruktive Informationen über ihr Verhalten erhalten und diese im Gegenzug auch weitergeben.
 
-Menschen sind engagierter und kreativer, wenn sie sich wohl fühlen, wenn sie konstruktive Informationen über ihr Verhalten erhalten und diese im Gegenzug auch weitergeben.
+layout: pattern
+---
 
-![](../_images/5e15bf517ff1c61ac4502167_49.%20Honest%20feedback.png)
+![Productive Feedback]({{ site.baseurl }}/assets/images/Honest%20feedback.png)
 
 ## Ausgangslage
 
@@ -18,15 +22,10 @@ Ohne eine externe Perspektive werden sie blind für ihre eigene Bestätigungsver
 Gleichzeitig können andere Personen innerhalb der Organisation die Probleme klar erkennen, bevor sie auftreten.
 
 * Beurteilende Tendenzen sind fest verdrahtet.
-
 * Die meisten Menschen geben kein positives Feedback, wenn sie nicht dazu aufgefordert werden.
-
 * Ohne Einfühlungsvermögen kann das Feedback als Aggression oder Angriff wahrgenommen werden.
-
 * Für Menschen, die noch nie Feedback gegeben haben, kann es schwierig sein, damit zu beginnen.
-
 * Ein bestehendes Team hat seine Beziehungen bereits gefestigt und wird es schwierig finden, sein Verhalten zu ändern.
-
 * Bedeutungsvolles Feedback erfordert ein gewisses Maß an persönlicher Beziehung.
 
 ## Deshalb
@@ -36,19 +35,15 @@ Erleichtern Sie Teamaktivitäten, um persönliche Verbindungen zwischen den Team
 Dies trägt dazu bei, ein Gefühl des gegenseitigen Vertrauens zu schaffen, das einen freien Feedbackfluss ermöglicht.
 
 * Schaffen Sie Gelegenheiten, wie Einzel- oder Gruppensitzungen oder wöchentliche E-Mail-Updates zum Projekt, um das von konstruktive Feedback-Geben zu üben.
-
 * Wenn jemand etwas gut macht, fühlen Sie sich wohl dabei, ihn zu loben.
-
 * Wenn Sie der Meinung sind, dass jemand einen falschen Ansatz verfolgt, sagen Sie es ihm auf konstruktive Weise.
-
 * Jemand muss als Leiter fungieren, um ein Vorbild dafür zu sein, wie man all dies tun kann.
-
 * Psychologische Sicherheit ist eine wesentliche Voraussetzung für produktives Feedback.
 
 ## Folglich
 
 Die Produktivität steigt, weil die Menschen lernen und ihre Arbeit und ihr Verhalten verbessern können und weil sie sich gesehen und geschätzt fühlen.
 
+{:.plusminus}
 - {:.minus} Das ist mit Kosten verbunden: ehrliches und konstruktives Feedback hängt von persönlichen Beziehungen und psychologischer Sicherheit ab.
-
 - {:.minus} Das Risiko persönlicher Konflikte ist hoch, aber das ist die Chance, die man ergreifen muss, wenn man wirklich schnell vorankommen will. Die Menschen werden von sich aus ohne Feedback lernen, aber es wird viel länger dauern und manche Dinge werden sie niemals allein lernen.

@@ -1,8 +1,11 @@
-## Muster: Messen, was wichtig ist
+---
+title: Messen, was wichtig ist
+title_en: Measure What Matters
+description: Menschen optimieren ihr Handeln auf der Grundlage wie ihre Arbeit gemessen wird. Die Beurteilung der falschen Dinge führt dazu, dass Menschen für die falschen Ziele optimieren.
+layout: pattern
+---
 
-Menschen optimieren ihr Handeln auf der Grundlage wie ihre Arbeit gemessen wird. Die Beurteilung der falschen Dinge führt dazu, dass Menschen für die falschen Ziele optimieren.
-
-![](../_images/5e14880906a361cd7105aec0_measure%20what%20matters.png)
+![Measure What Matters]({{ site.baseurl }}/assets/images/measure%20what%20matters.png)
 
 ## Ausgangslage
 
@@ -19,9 +22,7 @@ Dies ist ein Beispiel für das Goodharts Gesetz, das besagt: "Wenn eine Kennzahl
 Was passiert, ist, dass der Einzelne versucht, die Auswirkungen einer Richtlinie vorwegzunehmen und dann Handlungen zu ergreifen, die das Ergebnis verändern.
 
 * Menschen neigen dazu, für beste Messungen zu optimieren.
-
 * Die meisten Vorgehensweisen bringen ihre eigenen Metriken mit.
-
 * Verschiedene Teams können unterschiedliche Ziele haben.
 
 ## Deshalb
@@ -32,18 +33,14 @@ Messen Sie immer nur einige wenige KPIs auf einmal und wählen Sie diejenigen au
 Die Priorisierung auf den Wert für den Kunden als Hauptmetrik hilft, sich auf die Kundenbedürfnisse zu konzentrieren.
 
 * Halten Sie die KPIs messbar und erreichbar, aber auch für den Lieferfortschritt gestreckt.
-
 * Messen Sie Kreativität und Kompetenz unterschiedlich.
-
 * Vermeiden Sie es, in Eitelkeitsmetriken wie der Anzahl der Website-Besucher stecken zu bleiben und konzentrieren Sie sich stattdessen auf die Messung des Kundenwerts.
 
 ## Folglich
 
 Die Manager richten KPIs in Verbindung mit den Zielen ein und passen sie an, wenn sich die Ziele ändern.
 
+{:.plusminus}
 - {:.plus} Höheres Bewusstsein bei allen Beteiligten.
-
 - {:.plus} Alle Stakeholder haben mehr Klarheit über Prioritäten und Ziele.
-
 - {:.minus} Es ist schwierig und für die Teams verwirrend, wenn sich die Kennzahlen häufig ändern.
-
